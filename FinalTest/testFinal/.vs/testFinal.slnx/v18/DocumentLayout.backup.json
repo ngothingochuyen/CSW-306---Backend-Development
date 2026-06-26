@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSW 306\\FinalTest\\testFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\dtos\\fruitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:dtos\\fruitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\repositories\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:repositories\\fruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|d:\\csw 306\\finaltest\\testfinal\\repositories\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B8F551-2A2F-2490-42F5-C6E5C7E7D353}|testFinal.csproj|solutionrelative:repositories\\ifruitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T11:04:49.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:05:03.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderItemDTO.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T13:41:01.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAiwE4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:51:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T13:42:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDTO.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\CreateOrderDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T13:38:47.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T13:43:12.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:39:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Fruit.cs",
+              "RelativeDocumentMoniker": "Models\\Fruit.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Fruit.cs",
+              "RelativeToolTip": "Models\\Fruit.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:31:34.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:35:08.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAMwCQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:36:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:41:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FruitDTO.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\FruitDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\FruitDTO.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\DTOs\\FruitDTO.cs",
+              "RelativeToolTip": "DTOs\\FruitDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:21:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T12:12:23.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:06:56.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:28:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FruitRepository.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Repositories\\FruitRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FruitRepository.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Repositories\\FruitRepository.cs",
+              "RelativeToolTip": "Repositories\\FruitRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:56:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFruitRepository.cs",
+              "DocumentMoniker": "D:\\CSW 306\\FinalTest\\testFinal\\Repositories\\IFruitRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFruitRepository.cs",
+              "ToolTip": "D:\\CSW 306\\FinalTest\\testFinal\\Repositories\\IFruitRepository.cs",
+              "RelativeToolTip": "Repositories\\IFruitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T11:53:49.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

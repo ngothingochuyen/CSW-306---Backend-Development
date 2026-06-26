@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605045831_AdvancedChatUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260605045831_AdvancedChatUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:repositories\\chatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:services\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:repositories\\ichatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|d:\\csw 306\\lab6_2331200038\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D05A2363-8811-497B-BBDA-6FB4C800CFC9}|Lab6.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605041240_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260605041240_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Chat\\Index.cshtml",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Views\\Chat\\Index.cshtml",
+              "RelativeToolTip": "Views\\Chat\\Index.cshtml",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAAAwBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T03:11:40.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T05:02:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T04:53:58.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:52:37.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "Services\\ChatService.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Services\\ChatService.cs",
+              "RelativeToolTip": "Services\\ChatService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:47:38.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Services\\IChatService.cs",
+              "RelativeDocumentMoniker": "Services\\IChatService.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Services\\IChatService.cs",
+              "RelativeToolTip": "Services\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:47:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatRepository.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Repositories\\ChatRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ChatRepository.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Repositories\\ChatRepository.cs",
+              "RelativeToolTip": "Repositories\\ChatRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:46:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatController.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Controllers\\ChatController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv1gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:09:24.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260605045831_AdvancedChatUpdate.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605045831_AdvancedChatUpdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260605045831_AdvancedChatUpdate.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605045831_AdvancedChatUpdate.cs",
+              "RelativeToolTip": "Migrations\\20260605045831_AdvancedChatUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:58:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:07:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:05:59.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChatMessage.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "Models\\ChatMessage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:56:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChatRepository.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Repositories\\IChatRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IChatRepository.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Repositories\\IChatRepository.cs",
+              "RelativeToolTip": "Repositories\\IChatRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:45:36.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T04:09:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260605041240_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605041240_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260605041240_InitialCreate.cs",
+              "ToolTip": "D:\\CSW 306\\LAB6_2331200038\\Lab6\\Migrations\\20260605041240_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260605041240_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:12:40.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

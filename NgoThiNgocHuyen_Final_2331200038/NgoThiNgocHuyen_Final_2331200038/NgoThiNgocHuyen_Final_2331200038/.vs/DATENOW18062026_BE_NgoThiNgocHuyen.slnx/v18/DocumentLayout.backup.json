@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\purchaseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\purchaseorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\purchaseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\purchaseitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\petcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\18-06-2026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\pets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\controllers\\petscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\repositories\\ipetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\repositories\\petrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|d:\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\ngothingochuyen_final_2331200038\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7E1ED4-B563-CAE4-2991-C2D8FBFB4118}|NgoThiNgocHuyen_Final_2331200038\\DATENOW18062026_BE_NgoThiNgocHuyen.csproj|solutionrelative:ngothingochuyen_final_2331200038\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Program.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Program.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Program.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T00:35:18.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\appsettings.json",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\appsettings.json",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\appsettings.json",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T00:33:51.581Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:17:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PetsController.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Controllers\\PetsController.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Controllers\\PetsController.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Controllers\\PetsController.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Controllers\\PetsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:57:35.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PetRepository.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Repositories\\PetRepository.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Repositories\\PetRepository.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Repositories\\PetRepository.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Repositories\\PetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:35:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PurchaseOrders.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseOrders.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseOrders.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseOrders.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:25:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:36:18.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPetRepository.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Repositories\\IPetRepository.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Repositories\\IPetRepository.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Repositories\\IPetRepository.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Repositories\\IPetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:33:39.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseItems.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseItems.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseItems.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseItems.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\PurchaseItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:27:28.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PetCategory.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PetCategory.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\PetCategory.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\PetCategory.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\PetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:18:16.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\User.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\User.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\User.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:13:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pets.cs",
+              "DocumentMoniker": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\Pets.cs",
+              "RelativeDocumentMoniker": "NgoThiNgocHuyen_Final_2331200038\\Models\\Pets.cs",
+              "ToolTip": "D:\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\NgoThiNgocHuyen_Final_2331200038\\Models\\Pets.cs",
+              "RelativeToolTip": "NgoThiNgocHuyen_Final_2331200038\\Models\\Pets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:20:26.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

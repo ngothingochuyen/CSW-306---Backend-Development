@@ -1,0 +1,6 @@
+@_06_12_2026_BE_NgoThiNgocHuyen_HostAddress = http://localhost:5030
+
+GET {{_06_12_2026_BE_NgoThiNgocHuyen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

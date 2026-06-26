@@ -1,0 +1,269 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library Chat - Lab 6 CSW 306</title>
+    <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                margin: 30px;
+                background-color: #FFF0F5;
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                color: #4A4A4A;
+            }
+
+            h1 {
+                color: #FF1493;
+                text-align: center;
+                margin-bottom: 10px;
+                text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.6);
+                font-size: 2.2rem;
+            }
+
+            .container {
+                display: flex;
+                gap: 20px;
+                width: 100%;
+            }
+
+            .chat-panel {
+                flex: 1;
+                background: #FFFFFF;
+                padding: 25px;
+                border-radius: 16px;
+                box-shadow: 0 4px 15px rgba(255, 182, 193, 0.4);
+                border: 1px solid #FFD1DC;
+            }
+
+            h2 {
+                color: #FF1493;
+                font-size: 1.4rem;
+                margin-top: 0;
+                margin-bottom: 15px;
+                border-bottom: 2px dashed #FFB6C1;
+                padding-bottom: 5px;
+            }
+
+            h3 {
+                font-size: 1rem;
+                color: #DB7093;
+                margin: 10px 0;
+            }
+
+            input, select {
+                width: 100%;
+                padding: 12px;
+                margin-bottom: 12px;
+                border: 1px solid #FFB6C1;
+                border-radius: 8px;
+                box-sizing: border-box;
+                background-color: #FFF5F7;
+            }
+
+            button {
+                width: 100%;
+                padding: 12px;
+                background: #FF1493;
+                color: white;
+                border: none;
+                border-radius: 8px;
+                cursor: pointer;
+                font-weight: bold;
+                margin-bottom: 8px;
+            }
+
+                button:hover {
+                    background: #C71585;
+                }
+
+            .leave-btn {
+                background: #FF69B4;
+            }
+
+            ul {
+                list-style-type: none;
+                padding: 10px;
+                max-height: 220px;
+                overflow-y: auto;
+                background: #FFF9FA;
+                border: 1px solid #FFE4E1;
+                border-radius: 8px;
+                margin-top: 15px;
+            }
+
+            li {
+                padding: 8px;
+                border-bottom: 1px solid #FFF0F5;
+                font-size: 0.95rem;
+            }
+
+                li strong {
+                    color: #FF1493;
+                }
+
+            .system-msg {
+                color: #DB7093;
+                font-style: italic;
+            }
+
+            .private-msg {
+                background-color: #FFE4E1;
+                border-left: 4px solid #FF1493;
+            }
+    </style>
+</head>
+<body>
+
+    <h1>Library Chat - Lab 6 CSW 306</h1>
+
+    <div class="container">
+        <div class="chat-panel">
+            <h2>1. Broadcast Chat</h2>
+            <input type="text" id="broadcastMsgInput" placeholder="Enter global message..." />
+            <button id="sendBroadcastBtn">Send to All</button>
+            <ul id="broadcastList"></ul>
+        </div>
+
+        <div class="chat-panel">
+            <h2>2. Group Chat</h2>
+            <select id="roomSelect">
+                <option value="Hehe Room">Hehe Room</option>
+                <option value="Hihi Room">Hihi Room</option>
+                <option value="Haha Room">Haha Room</option>
+            </select>
+            <button id="joinRoomBtn">JoinRoom</button>
+            <button id="leaveRoomBtn" class="leave-btn">LeaveRoom</button>
+            <input type="text" id="groupMsgInput" placeholder="Enter room message..." />
+            <button id="sendGroupBtn">Send to Room</button>
+            <h3 id="currentRoomText">Status: Not in any room</h3>
+            <ul id="groupList"></ul>
+        </div>
+
+        <div class="chat-panel">
+            <h2>3. Private Chat</h2>
+            <select id="userSelect"><option value="">-- Select Recipient --</option></select>
+            <input type="text" id="privateMsgInput" placeholder="Enter private message..." />
+            <button id="sendPrivateBtn">Send Private Message</button>
+            <h3>Private Conversation</h3>
+            <ul id="privateList"></ul>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script>
+        const connection = new signalR.HubConnectionBuilder().withUrl("/chatHub").build();
+        let currentRoom = "";
+
+        connection.on("ReceiveMessage", (u, m) => addLi("broadcastList", `<strong>${u}</strong>: ${m}`));
+        connection.on("ReceiveGroupMessage", (r, u, m) => { if (r === currentRoom) addLi("groupList", `<strong>[${r}] ${u}</strong>: ${m}`); });
+        connection.on("ReceiveNotification", (m) => addLi("groupList", `<span class="system-msg">${m}</span>`));
+        connection.on("ReceivePrivateMessage", (cid, u, m) => {
+        const li = document.createElement("li");
+        li.className = "private-msg";
+        li.innerHTML = `<strong>[Private from ${u}]</strong>: ${m}`;
+        document.getElementById("privateList").appendChild(li);
+        });
+
+        connection.start().then(() => {
+        loadGeneralHistory();
+        setInterval(refreshOnlineUsers, 3000);
+        });
+
+        function addLi(id, html) {
+        const li = document.createElement("li");
+        li.innerHTML = html;
+        document.getElementById(id).appendChild(li);
+        }
+
+        function loadGeneralHistory() {
+        document.getElementById("broadcastList").innerHTML = "";
+        document.getElementById("privateList").innerHTML = "";
+            
+        fetch('/Chat/GetBroadcastHistory').then(r => r.json()).then(h =>
+        h.forEach(m => addLi("broadcastList", `<strong>${m.sender}</strong>: ${m.messageBody}`))
+        );
+            
+        fetch('/Chat/GetPrivateHistory').then(r => r.json()).then(h =>
+        h.forEach(m => {
+        const li = document.createElement("li");
+        li.className = "private-msg";
+        li.innerHTML = `<strong>[Private] ${m.sender}</strong>: ${m.messageBody}`;
+        document.getElementById("privateList").appendChild(li);
+        })
+        );
+        }
+
+        document.getElementById("joinRoomBtn").addEventListener("click", () => {
+        const room = document.getElementById("roomSelect").value;
+        fetch('/Chat/JoinRoom', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ connectionId: connection.connectionId, roomName: room })
+        })
+        .then(res => {
+        if (res.ok) {
+        currentRoom = room;
+        document.getElementById("groupList").innerHTML = "";
+        document.getElementById("currentRoomText").innerText = "Status: Currently in " + currentRoom;
+        fetch('/Chat/GetGroupHistory?roomName=' + encodeURIComponent(room))
+        .then(r => r.json())
+        .then(h => {
+        h.forEach(m => addLi("groupList", `<strong>[${m.roomName}] ${m.sender}</strong>: ${m.messageBody}`));
+        });
+        }
+        });
+        });
+
+        document.getElementById("leaveRoomBtn").addEventListener("click", () => {
+        if (!currentRoom) return;
+        fetch('/Chat/LeaveRoom', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ connectionId: connection.connectionId, roomName: currentRoom })
+        })
+        .then(() => {
+        currentRoom = "";
+        document.getElementById("currentRoomText").innerText = "Status: Not in any room";
+        document.getElementById("groupList").innerHTML = "";
+        });
+        });
+
+        function refreshOnlineUsers() {
+        fetch('/Chat/GetOnlineUsers').then(r => r.json()).then(users => {
+        const select = document.getElementById("userSelect");
+        const selected = select.value;
+        select.innerHTML = '<option value="">-- Select Recipient --</option>';
+        users.forEach(u => {
+        if (u.connectionId !== connection.connectionId) {
+        const opt = document.createElement("option");
+        opt.value = u.connectionId;
+        opt.text = u.username;
+        if (u.connectionId === selected) opt.selected = true;
+        select.appendChild(opt);
+        }
+        });
+        });
+        }
+
+        document.getElementById("sendBroadcastBtn").onclick = () => connection.invoke("SendMessage", document.getElementById("broadcastMsgInput").value);
+        document.getElementById("sendGroupBtn").onclick = () => connection.invoke("SendGroupMessage", currentRoom, document.getElementById("groupMsgInput").value);
+        document.getElementById("sendPrivateBtn").onclick = () => connection.invoke("SendPrivateMessage", document.getElementById("userSelect").value, "", document.getElementById("privateMsgInput").value);
+
+        document.querySelectorAll('input').forEach(input => {
+        input.addEventListener("keypress", (e) => {
+        if (e.key === "Enter") {
+        e.preventDefault();
+        if(input.id === "broadcastMsgInput") document.getElementById("sendBroadcastBtn").click();
+        if(input.id === "groupMsgInput") document.getElementById("sendGroupBtn").click();
+        if(input.id === "privateMsgInput") document.getElementById("sendPrivateBtn").click();
+        }
+        });
+        });
+    </script>
+</body>
+</html>

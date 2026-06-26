@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|c:\\users\\nxc\\desktop\\test\\be\\testconnectdb\\testconnectdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|solutionrelative:testconnectdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|c:\\users\\nxc\\desktop\\test\\be\\testconnectdb\\testconnectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|solutionrelative:testconnectdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|c:\\users\\nxc\\desktop\\test\\be\\testconnectdb\\testconnectdb\\controllers\\bookapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|solutionrelative:testconnectdb\\controllers\\bookapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|c:\\users\\nxc\\desktop\\test\\be\\testconnectdb\\testconnectdb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|solutionrelative:testconnectdb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|c:\\users\\nxc\\desktop\\test\\be\\testconnectdb\\testconnectdb\\models\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42206425-3A2F-4141-A41A-76870964DBED}|TestConnectDB\\TestConnectDB.csproj|solutionrelative:testconnectdb\\models\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookApiController.cs",
+              "DocumentMoniker": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Controllers\\BookApiController.cs",
+              "RelativeDocumentMoniker": "TestConnectDB\\Controllers\\BookApiController.cs",
+              "ToolTip": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Controllers\\BookApiController.cs",
+              "RelativeToolTip": "TestConnectDB\\Controllers\\BookApiController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:04:25.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "TestConnectDB\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Models\\Book.cs",
+              "RelativeToolTip": "TestConnectDB\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:00:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Models\\BookManagementContext.cs",
+              "RelativeDocumentMoniker": "TestConnectDB\\Models\\BookManagementContext.cs",
+              "ToolTip": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Models\\BookManagementContext.cs",
+              "RelativeToolTip": "TestConnectDB\\Models\\BookManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:57:02.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Program.cs",
+              "RelativeDocumentMoniker": "TestConnectDB\\Program.cs",
+              "ToolTip": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\Program.cs",
+              "RelativeToolTip": "TestConnectDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:53:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\appsettings.json",
+              "RelativeDocumentMoniker": "TestConnectDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\NXC\\Desktop\\Test\\BE\\TestConnectDB\\TestConnectDB\\appsettings.json",
+              "RelativeToolTip": "TestConnectDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T02:51:54.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

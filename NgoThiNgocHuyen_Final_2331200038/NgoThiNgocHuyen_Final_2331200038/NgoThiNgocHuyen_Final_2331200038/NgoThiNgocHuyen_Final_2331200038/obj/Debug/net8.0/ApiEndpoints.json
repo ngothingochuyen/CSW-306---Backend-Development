@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "DATENOW18062026_BE_NgoThiNgocHuyen.Controllers.PetsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Pets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DATENOW18062026_BE_NgoThiNgocHuyen.Controllers.PetsController",
+    "Method": "Create",
+    "RelativePath": "api/Pets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DATENOW18062026_BE_NgoThiNgocHuyen.Models.Pets",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DATENOW18062026_BE_NgoThiNgocHuyen.Controllers.PetsController",
+    "Method": "GetById",
+    "RelativePath": "api/Pets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DATENOW18062026_BE_NgoThiNgocHuyen.Controllers.PetsController",
+    "Method": "Update",
+    "RelativePath": "api/Pets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "DATENOW18062026_BE_NgoThiNgocHuyen.Models.Pets",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DATENOW18062026_BE_NgoThiNgocHuyen.Controllers.PetsController",
+    "Method": "Delete",
+    "RelativePath": "api/Pets/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

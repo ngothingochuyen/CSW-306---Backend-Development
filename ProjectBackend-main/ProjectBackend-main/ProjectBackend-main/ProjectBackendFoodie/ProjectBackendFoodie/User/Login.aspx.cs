@@ -1,0 +1,65 @@
+﻿using MySql.Data.MySqlClient; // Phải có thư viện MySQL này nha
+using ProjectBackendFoodie;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace Foodie.User
+{
+    public partial class Login : System.Web.UI.Page
+    {
+        // Đã đổi hết sang MySql cho đúng với Database của bạn
+        MySqlConnection con;
+        MySqlCommand cmd;
+        MySqlDataAdapter sda;
+        DataTable dt;
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (Session["userId"] != null)
+            {
+                Response.Redirect("Default.aspx");
+            }
+        }
+
+        protected void btnLogin_Click(object sender, EventArgs e)
+        {
+           
+            if (txtUsername.Text.Trim() == "Admin" && txtPassword.Text.Trim() == "123")
+            {
+                Session["admin"] = txtUsername.Text.Trim();
+                Response.Redirect("../Admin/Dashboard.aspx");
+            }
+            else
+            {
+                con = new MySqlConnection(Connection.GetConnectionString());
+                cmd = new MySqlCommand("User_Crud", con);
+                cmd.Parameters.AddWithValue("@Action", "SELECT4LOGIN");
+                cmd.Parameters.AddWithValue("@Username", txtUsername.Text.Trim());
+                cmd.Parameters.AddWithValue("@Password", txtPassword.Text.Trim());
+                cmd.CommandType = CommandType.StoredProcedure;
+                sda = new MySqlDataAdapter(cmd);
+                dt = new DataTable();
+                sda.Fill(dt);
+                if (dt.Rows.Count == 1)
+                {
+                    Session["username"] = txtUsername.Text.Trim();
+                    Session["userId"] = dt.Rows[0]["UserId"];
+                    Response.Redirect("Default.aspx"); // Đăng nhập thành công thì về trang chủ
+                }
+                else
+                {
+                    // Đăng nhập thất bại thì hiện thông báo lỗi màu đỏ
+                    lblMsg.Visible = true;
+                    lblMsg.Text = "Invalid Credentials..!";
+                    lblMsg.CssClass = "alert alert-danger";
+                }
+            
+            }
+        }
+    }
+}
